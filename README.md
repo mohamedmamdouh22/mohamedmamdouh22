@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mamdouh Mohamed</h1>
 <h3 align="center">flutter developer/Data scientist</h3>
-
+<img align='right' alt='coding' src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif'/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmamdouh22&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmamdouh22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedmamdouh22" alt="mohamedmamdouh22" /></a> </p>
