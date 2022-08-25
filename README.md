@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedmamdouh22" alt="mohamedmamdouh22" /></a> </p>
 
-- 🔭 I’m currently working on [Weather application](https://github.com/mohamedmamdouh22/weather_app)
+- 🔭 I’m currently working on [Chat app](https://github.com/mohamedmamdouh22/chat_app)
 
 - 🌱 I’m currently learning **Mobile Development**
 
