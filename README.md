@@ -1,14 +1,14 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Mohamed Mamdouh Mohamed</h1>
-<h3 align="center">flutter developer/Data scientist</h3>
+<h3 align="center">Data scientist/Web scraper</h3>
 <img align='right' alt='coding' src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif'/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmamdouh22&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmamdouh22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedmamdouh22" alt="mohamedmamdouh22" /></a> </p>
 
-- 🔭 I’m currently working on [Chat app](https://github.com/mohamedmamdouh22/chat_app)
+- 🔭 I’m currently working with [Reworked AI]
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **mkhalilhoho22@gmail.com**
 
