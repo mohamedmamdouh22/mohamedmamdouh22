@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and GenAI**
 
-- 📫 How to reach me **mkhalilhoho22@gmail.com**
+- 📫 How to reach me **mkhalilhoho22@gmail.com / mkhalil@reworkd.ai**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hCOmw0bmHHylUfGUariNqFxGqntCaWH3/view?usp=sharing](https://drive.google.com/file/d/1hCOmw0bmHHylUfGUariNqFxGqntCaWH3/view?usp=sharing)
 
