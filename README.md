@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedmamdouh22" alt="mohamedmamdouh22" /></a> </p>
 
-- 🔭 I’m currently working with **Reworked AI**
+- 🔭 I’m currently working with <a href="https://github.com/reworkd/">**Reworkd AI**</a>
 
 - 🌱 I’m currently learning **Machine Learning and GenAI**
 
