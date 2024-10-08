@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mkhalilhoho22@gmail.com / mkhalil@reworkd.ai**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hCOmw0bmHHylUfGUariNqFxGqntCaWH3/view?usp=sharing](https://drive.google.com/file/d/1hCOmw0bmHHylUfGUariNqFxGqntCaWH3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hCOmw0bmHHylUfGUariNqFxGqntCaWH3/view?usp=sharing](https://drive.google.com/file/d/1aX0cp2fXIlzfnio0bG8GHaQ68Gy5myyU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
