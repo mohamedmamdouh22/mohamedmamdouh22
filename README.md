@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-khalil-65a376212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-khalil-65a376212/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/mohamedmamdouh22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamed mamdouh22" height="30" width="40" /></a>
-<a href="mailto:mkhalil@reworkd.ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mkhalilhoho22@gmail.com" height="30" width="40" /></a>
+<a href="mailto:mkhalil@reworkd.ai" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mkhalil@reworkd.ai" height="30" width="40" /></a>
 
 <a href="https://codeforces.com/profile/mohamedkhalil22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamedkhalil22" height="30" width="40" /></a>
 </p>
