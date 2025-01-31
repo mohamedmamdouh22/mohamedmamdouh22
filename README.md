@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
 <h1 align="center">Hi 👋, I'm Mohamed Khalil</h1>
-<h3 align="center">Data scientist/Web scraper</h3>
+<h3 align="center">Python Developer/Web scraper</h3>
 <img align='right' alt='coding' src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif'/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmamdouh22&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmamdouh22" /> </p>
 
