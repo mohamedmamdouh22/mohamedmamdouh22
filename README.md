@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedmamdouh22" alt="mohamedmamdouh22" /></a> </p>
 
-- 🔭 I’m currently working with <a href="https://github.com/reworkd/">**Reworkd AI**</a>
+- 🔭 I’m currently working with <a href="https://github.com/Intuned">**Intuned**</a>
 
-- 🌱 I’m currently learning **Machine Learning and GenAI**
+- 🌱 I’m currently learning **Python Backend and GenAI**
 
-- 📫 How to reach me **mkhalilhoho22@gmail.com / mkhalil@reworkd.ai**
+- 📫 How to reach me **mkhalilhoho22@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hCOmw0bmHHylUfGUariNqFxGqntCaWH3/view?usp=sharing](https://drive.google.com/file/d/1aX0cp2fXIlzfnio0bG8GHaQ68Gy5myyU/view?usp=sharing)
 
