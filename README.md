@@ -33,8 +33,8 @@ Experienced Software Engineer with 3+ years of hands-on experience building
 
 ### 💼 Currently
 - 🔭 Solutions Engineer at [**Intuned (YC S22)**](https://github.com/Intuned)
-- 🧠 Working on **AI automation & backend systems**
-- 🌱 Deepening expertise in **Python backend architecture & GenAI**
+- 🧠 Working on **Web data extraction & AI automation & backend systems**
+- 🌱 Deepening expertise in **GenAI & Python backend architecture**
 
 ---
 
